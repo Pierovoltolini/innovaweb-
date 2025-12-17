@@ -1,0 +1,17 @@
+﻿{
+  "brand": "InnovaWeb",
+  "heroTitle": "Transformamos tu presencia digital",
+  "heroSubtitle": "Trabajamos a tu lado: claridad, confianza y compromiso.",
+  "benefits": [
+    {"icon":"🎯","title":"Más consultas","text":"CTA a WhatsApp y formularios claros para convertir visitas en clientes desde la primera semana."},
+    {"icon":"⚡","title":"Entrega rápida, cero estrés","text":"Brief de 20’ → diseño aprobado → web online en 7–15 días."},
+    {"icon":"🤝","title":"Precio claro + soporte real","text":"Presupuesto sin sorpresas y 30 días de acompañamiento. Todo a tu nombre."}
+  ],
+  "steps": [
+    {"title":"Brief express (20’)","text":"Objetivos, referencias y contenido."},
+    {"title":"Diseño + copy","text":"Wireframe y textos orientados a conversión."},
+    {"title":"Desarrollo","text":"Sitio responsive y optimizado."},
+    {"title":"Lanzamiento + guía","text":"Publicación y video de uso."}
+  ],
+  "contact": { "email":"hola@innovaweb.com", "phone":"+598 9XXXXXXX" }
+}
